@@ -1,0 +1,16 @@
+
+// response body in var object
+
+var jsonData = pm.response.json();
+
+
+
+// This test is to check if node named "title" exists
+
+tests["test1: title found"] = pm.expect(jsonData).to.have.property('title');
+
+
+
+// This test is to check if node "title" value matches to "delectus aut autem"
+
+tests["test2: title character match test"] = pm.expect(jsonData.title).to.eql("delectus aut autem");

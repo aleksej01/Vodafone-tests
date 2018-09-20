@@ -1,0 +1,4247 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes h="1920" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1920"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="1920" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="1920"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="1178" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="1178" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.webkit.WebView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.webkit.WebView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="1178" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.webkit.WebView"/>
+<property type="text" value="My Vodafone Malta"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.webkit.WebView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="1178" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="1178" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="imgBackground"/>
+<property type="resource-id" value="imgBackground"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="180" ignored="false" w="180" web="false" x="0" y="72">
+<properties>
+<property type="id" value="divSplashScreen"/>
+<property type="resource-id" value="divSplashScreen"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,72][180,252]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="180"/>
+<property type="height" value="180"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="132" ignored="false" w="132" web="false" x="48" y="120">
+<properties>
+<property type="class" value="android.widget.Image"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[48,120][180,252]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Image"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="48"/>
+<property type="y" value="120"/>
+<property type="width" value="132"/>
+<property type="height" value="132"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1178" ignored="false" w="3" web="false" x="0" y="72">
+<properties>
+<property type="id" value="shadowbox"/>
+<property type="resource-id" value="shadowbox"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,72][3,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="3"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="1178" ignored="false" w="3" web="false" x="1077" y="72">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[1077,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="72"/>
+<property type="width" value="3"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="1178" ignored="false" w="3" web="false" x="1077" y="72">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="72"/>
+<property type="width" value="3"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="1178" ignored="false" w="3" web="false" x="1077" y="72">
+<properties>
+<property type="id" value="listMenu"/>
+<property type="resource-id" value="listMenu"/>
+<property type="class" value="android.widget.ListView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="true"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.ListView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="72"/>
+<property type="width" value="3"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="264">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,264][1080,414]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="264"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="264">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Pay your bill"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,264][1080,414]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="264"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="948">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,948][1080,1098]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="948"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="414">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,414][1080,564]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="414"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="414">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="My balance"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,414][1080,564]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="414"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="564">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[1077,564][1080,714]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="564"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="564">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="View my bills"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,564][1080,714]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="564"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="714">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[1077,714][1080,864]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="714"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="714">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Top up Prepaid Top up"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,714][1080,864]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="714"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="864">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[1077,864][1080,1014]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="864"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="864">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Buy a bundle Buy prepaid bundle"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,864][1080,1014]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="864"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="1014">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[1077,1014][1080,1164]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1014"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="150" ignored="false" w="3" web="false" x="1077" y="1014">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Student registration"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,1014][1080,1164]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1014"/>
+<property type="width" value="3"/>
+<property type="height" value="150"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="86" ignored="false" w="3" web="false" x="1077" y="1164">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[1077,1164][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1164"/>
+<property type="width" value="3"/>
+<property type="height" value="86"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="86" ignored="false" w="3" web="false" x="1077" y="1164">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Message Centre"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,1164][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1164"/>
+<property type="width" value="3"/>
+<property type="height" value="86"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Contact us"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="8"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Store locator"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="9"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="10"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Vodafone website"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="11"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Log out"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="12"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="3" web="false" x="1077" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[1077,1248][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="1077"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="1178" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[0,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="1178" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1178"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="1130" ignored="false" w="984" web="false" x="48" y="120">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[48,120][1032,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="48"/>
+<property type="y" value="120"/>
+<property type="width" value="984"/>
+<property type="height" value="1130"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="198" ignored="false" w="984" web="false" x="48" y="120">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Log in to My Vodafone"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[48,120][1032,318]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="48"/>
+<property type="y" value="120"/>
+<property type="width" value="984"/>
+<property type="height" value="198"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="231" ignored="false" w="768" web="false" x="156" y="474">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[156,474][924,705]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="474"/>
+<property type="width" value="768"/>
+<property type="height" value="231"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="99" ignored="false" w="99" web="false" x="189" y="540">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[189,540][288,639]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="189"/>
+<property type="y" value="540"/>
+<property type="width" value="99"/>
+<property type="height" value="99"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="99" ignored="false" w="99" web="false" x="189" y="540">
+<properties>
+<property type="id" value="warning_ICON"/>
+<property type="resource-id" value="warning_ICON"/>
+<property type="class" value="android.widget.Image"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[189,540][288,639]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Image"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="189"/>
+<property type="y" value="540"/>
+<property type="width" value="99"/>
+<property type="height" value="99"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="135" ignored="false" w="540" web="false" x="321" y="522">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[321,522][861,657]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="321"/>
+<property type="y" value="522"/>
+<property type="width" value="540"/>
+<property type="height" value="135"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="132" ignored="false" w="540" web="false" x="321" y="522">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="The username and password you entered are not correct."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[321,522][861,654]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="321"/>
+<property type="y" value="522"/>
+<property type="width" value="540"/>
+<property type="height" value="132"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="48" ignored="false" w="96" web="false" x="204" y="705">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="  "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[204,705][300,753]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="204"/>
+<property type="y" value="705"/>
+<property type="width" value="96"/>
+<property type="height" value="48"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="135" ignored="false" w="768" web="false" x="156" y="768">
+<properties>
+<property type="class" value="android.widget.EditText"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="true"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[156,768][924,903]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.EditText"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="768"/>
+<property type="width" value="768"/>
+<property type="height" value="135"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="132" ignored="false" w="768" web="false" x="156" y="966">
+<properties>
+<property type="class" value="android.widget.EditText"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[156,966][924,1098]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="true"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.EditText"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="966"/>
+<property type="width" value="768"/>
+<property type="height" value="132"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="92" ignored="false" w="768" web="false" x="156" y="1158">
+<properties>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="Log in"/>
+<property type="enabled" value="false"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[156,1158][924,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="1158"/>
+<property type="width" value="768"/>
+<property type="height" value="92"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="768" web="false" x="156" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[156,1248][924,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="1248"/>
+<property type="width" value="768"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="3" web="false" x="0" y="1248">
+<properties>
+<property type="id" value="chkRememberMe"/>
+<property type="resource-id" value="chkRememberMe"/>
+<property type="class" value="android.widget.CheckBox"/>
+<property type="text" value="Remember me"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="true"/>
+<property type="checked" value="true"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,1248][3,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.CheckBox"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1248"/>
+<property type="width" value="3"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="96" web="false" x="828" y="1248">
+<properties>
+<property type="class" value="android.widget.Button"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[828,1248][924,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="828"/>
+<property type="y" value="1248"/>
+<property type="width" value="96"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2" ignored="false" w="768" web="false" x="156" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Use your vodafone.com.mt &#10;username and password to log in."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[156,1248][924,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="1248"/>
+<property type="width" value="768"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="768" web="false" x="156" y="1248">
+<properties>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="Forgotten password"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[156,1248][924,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="1248"/>
+<property type="width" value="768"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="768" web="false" x="156" y="1248">
+<properties>
+<property type="class" value="android.widget.Button"/>
+<property type="text" value="Register now"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="8"/>
+<property type="bounds" value="[156,1248][924,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.Button"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="1248"/>
+<property type="width" value="768"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="768" web="false" x="156" y="1248">
+<properties>
+<property type="class" value="android.widget.ListView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="9"/>
+<property type="bounds" value="[156,1248][924,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.ListView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="156"/>
+<property type="y" value="1248"/>
+<property type="width" value="768"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="210" web="false" x="285" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[285,1248][495,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="285"/>
+<property type="y" value="1248"/>
+<property type="width" value="210"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="126" web="false" x="327" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Top up"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[327,1248][453,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="327"/>
+<property type="y" value="1248"/>
+<property type="width" value="126"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="2" ignored="false" w="285" web="false" x="510" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[510,1248][795,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="510"/>
+<property type="y" value="1248"/>
+<property type="width" value="285"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="201" web="false" x="552" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Contact us"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[552,1248][753,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="552"/>
+<property type="y" value="1248"/>
+<property type="width" value="201"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="2" ignored="false" w="984" web="false" x="48" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="10"/>
+<property type="bounds" value="[48,1248][1032,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="48"/>
+<property type="y" value="1248"/>
+<property type="width" value="984"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children>
+<node h="2" ignored="false" w="624" web="false" x="138" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="By logging in you are accepting the "/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[138,1248][762,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="138"/>
+<property type="y" value="1248"/>
+<property type="width" value="624"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="501" web="false" x="441" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="Terms and Conditions"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="true"/>
+<property type="focused" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[441,1248][942,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="true"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="441"/>
+<property type="y" value="1248"/>
+<property type="width" value="501"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="2" ignored="false" w="12" web="false" x="627" y="1248">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="text" value="."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[627,1248][639,1250]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="627"/>
+<property type="y" value="1248"/>
+<property type="width" value="12"/>
+<property type="height" value="2"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="72" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="statusBarBackground"/>
+<property type="resource-id" value="android:id/statusBarBackground"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][1080,72]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="72"/>
+<property type="package" value="mt.com.vodafone.android.vodafoneapp"/>
+</properties>
+<children/>
+</node>
+<node h="72" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="heads_up_scrim"/>
+<property type="resource-id" value="com.android.systemui:id/heads_up_scrim"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,72]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+<node h="72" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="status_bar"/>
+<property type="resource-id" value="com.android.systemui:id/status_bar"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,0][1080,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="status_bar_contents"/>
+<property type="resource-id" value="com.android.systemui:id/status_bar_contents"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,0][1080,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="680" web="false" x="18" y="0">
+<properties>
+<property type="id" value="notification_icon_area"/>
+<property type="resource-id" value="com.android.systemui:id/notification_icon_area"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[18,0][698,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="18"/>
+<property type="y" value="0"/>
+<property type="width" value="680"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="680" web="false" x="18" y="0">
+<properties>
+<property type="id" value="notification_icon_area_inner"/>
+<property type="resource-id" value="com.android.systemui:id/notification_icon_area_inner"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[18,0][698,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="18"/>
+<property type="y" value="0"/>
+<property type="width" value="680"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="648" web="false" x="18" y="0">
+<properties>
+<property type="id" value="notificationIcons"/>
+<property type="resource-id" value="com.android.systemui:id/notificationIcons"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[18,0][666,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="18"/>
+<property type="y" value="0"/>
+<property type="width" value="648"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="51" web="false" x="29" y="11">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Wilfred Bakker is hosting a watch party in Make Money From Home Discussions: &quot;**Automated System For Everyone**&#55357;&#56391; &#55357;&#56846;&#10;&#10;You can start earning $1, $100 and even $1000 by simply &#10;sharing a free website...&#55357;&#56501;&#10;&#10;Grab yours here: http://tcpros.co/W1OxS&#10;&#10;Questions? Please Comment &#55357;&#56490;&quot;."/>
+<property type="content-desc" value="Wilfred Bakker is hosting a watch party in Make Money From Home Discussions: &quot;**Automated System For Everyone**&#55357;&#56391; &#55357;&#56846;&#10;&#10;You can start earning $1, $100 and even $1000 by simply &#10;sharing a free website...&#55357;&#56501;&#10;&#10;Grab yours here: http://tcpros.co/W1OxS&#10;&#10;Questions? Please Comment &#55357;&#56490;&quot;."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[29,11][80,62]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="29"/>
+<property type="y" value="11"/>
+<property type="width" value="51"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+<node h="51" ignored="false" w="51" web="false" x="101" y="11">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="Successfully updated &quot;LinkedIn&quot;"/>
+<property type="content-desc" value="Successfully updated &quot;LinkedIn&quot;"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[101,11][152,62]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="101"/>
+<property type="y" value="11"/>
+<property type="width" value="51"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+<node h="51" ignored="false" w="51" web="false" x="173" y="11">
+<properties>
+<property type="class" value="android.widget.ImageView"/>
+<property type="contentDescription" value="USB debugging connected"/>
+<property type="content-desc" value="USB debugging connected"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[173,11][224,62]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="173"/>
+<property type="y" value="11"/>
+<property type="width" value="51"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="72" ignored="false" w="358" web="false" x="698" y="0">
+<properties>
+<property type="id" value="system_icon_area"/>
+<property type="resource-id" value="com.android.systemui:id/system_icon_area"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[698,0][1056,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="698"/>
+<property type="y" value="0"/>
+<property type="width" value="358"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="230" web="false" x="698" y="0">
+<properties>
+<property type="id" value="system_icons"/>
+<property type="resource-id" value="com.android.systemui:id/system_icons"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[698,0][928,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="698"/>
+<property type="y" value="0"/>
+<property type="width" value="230"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="72" ignored="false" w="0" web="false" x="698" y="0">
+<properties>
+<property type="id" value="statusIcons"/>
+<property type="resource-id" value="com.android.systemui:id/statusIcons"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[698,0][698,72]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="698"/>
+<property type="y" value="0"/>
+<property type="width" value="0"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+<node h="54" ignored="false" w="193" web="false" x="706" y="9">
+<properties>
+<property type="id" value="signal_cluster"/>
+<property type="resource-id" value="com.android.systemui:id/signal_cluster"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[706,9][899,63]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="706"/>
+<property type="y" value="9"/>
+<property type="width" value="193"/>
+<property type="height" value="54"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="55" web="false" x="706" y="10">
+<properties>
+<property type="id" value="wifi_combo"/>
+<property type="resource-id" value="com.android.systemui:id/wifi_combo"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="contentDescription" value="Wifi one bar."/>
+<property type="content-desc" value="Wifi one bar."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[706,10][761,61]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="706"/>
+<property type="y" value="10"/>
+<property type="width" value="55"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="55" web="false" x="706" y="10">
+<properties>
+<property type="id" value="wifi_signal_dark"/>
+<property type="resource-id" value="com.android.systemui:id/wifi_signal_dark"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[706,10][761,61]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="706"/>
+<property type="y" value="10"/>
+<property type="width" value="55"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+<node h="51" ignored="false" w="55" web="false" x="706" y="10">
+<properties>
+<property type="id" value="wifi_signal"/>
+<property type="resource-id" value="com.android.systemui:id/wifi_signal"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[706,10][761,61]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="706"/>
+<property type="y" value="10"/>
+<property type="width" value="55"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="54" ignored="false" w="117" web="false" x="761" y="9">
+<properties>
+<property type="id" value="mobile_signal_group"/>
+<property type="resource-id" value="com.android.systemui:id/mobile_signal_group"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[761,9][878,63]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="761"/>
+<property type="y" value="9"/>
+<property type="width" value="117"/>
+<property type="height" value="54"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="117" web="false" x="761" y="9">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="contentDescription" value="3G Phone three bars."/>
+<property type="content-desc" value="3G Phone three bars."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[761,9][878,63]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="761"/>
+<property type="y" value="9"/>
+<property type="width" value="117"/>
+<property type="height" value="54"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="54" ignored="false" w="60" web="false" x="767" y="9">
+<properties>
+<property type="id" value="network_type"/>
+<property type="resource-id" value="com.android.systemui:id/network_type"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[767,9][827,63]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="767"/>
+<property type="y" value="9"/>
+<property type="width" value="60"/>
+<property type="height" value="54"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+<node h="51" ignored="false" w="51" web="false" x="827" y="9">
+<properties>
+<property type="id" value="mobile_combo"/>
+<property type="resource-id" value="com.android.systemui:id/mobile_combo"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[827,9][878,60]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="827"/>
+<property type="y" value="9"/>
+<property type="width" value="51"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children>
+<node h="51" ignored="false" w="51" web="false" x="827" y="9">
+<properties>
+<property type="id" value="mobile_signal_dark"/>
+<property type="resource-id" value="com.android.systemui:id/mobile_signal_dark"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[827,9][878,60]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="827"/>
+<property type="y" value="9"/>
+<property type="width" value="51"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+<node h="51" ignored="false" w="51" web="false" x="827" y="9">
+<properties>
+<property type="id" value="mobile_signal"/>
+<property type="resource-id" value="com.android.systemui:id/mobile_signal"/>
+<property type="class" value="android.widget.ImageView"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[827,9][878,60]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.ImageView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="827"/>
+<property type="y" value="9"/>
+<property type="width" value="51"/>
+<property type="height" value="51"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="44" ignored="false" w="29" web="false" x="899" y="14">
+<properties>
+<property type="id" value="battery"/>
+<property type="resource-id" value="com.android.systemui:id/battery"/>
+<property type="class" value="android.view.View"/>
+<property type="contentDescription" value="Battery 97 percent."/>
+<property type="content-desc" value="Battery 97 percent."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[899,14][928,58]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="899"/>
+<property type="y" value="14"/>
+<property type="width" value="29"/>
+<property type="height" value="44"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="72" ignored="false" w="128" web="false" x="928" y="0">
+<properties>
+<property type="id" value="clock"/>
+<property type="resource-id" value="com.android.systemui:id/clock"/>
+<property type="class" value="android.widget.TextView"/>
+<property type="text" value="12:55"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[928,0][1056,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.TextView"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="928"/>
+<property type="y" value="0"/>
+<property type="width" value="128"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="72" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="scrim_behind"/>
+<property type="resource-id" value="com.android.systemui:id/scrim_behind"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[0,0][1080,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+<node h="72" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="panel_holder"/>
+<property type="resource-id" value="com.android.systemui:id/panel_holder"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[0,0][1080,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+<node h="72" ignored="false" w="1080" web="false" x="0" y="0">
+<properties>
+<property type="id" value="scrim_in_front"/>
+<property type="resource-id" value="com.android.systemui:id/scrim_in_front"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[0,0][1080,72]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="1080"/>
+<property type="height" value="72"/>
+<property type="package" value="com.android.systemui"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1848" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1848"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children>
+<node h="1848" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1848"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children>
+<node h="1848" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="content"/>
+<property type="resource-id" value="android:id/content"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1848"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children>
+<node h="1848" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="keyboard_view"/>
+<property type="resource-id" value="com.android.inputmethod.latin:id/keyboard_view"/>
+<property type="class" value="android.widget.RelativeLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.RelativeLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1848"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="1848" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="parentPanel"/>
+<property type="resource-id" value="android:id/parentPanel"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,72][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1848"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children>
+<node h="0" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="fullscreenArea"/>
+<property type="resource-id" value="android:id/fullscreenArea"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,72]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="1848" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="id" value="inputArea"/>
+<property type="resource-id" value="android:id/inputArea"/>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,72][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1848"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children>
+<node h="1848" ignored="false" w="1080" web="false" x="0" y="72">
+<properties>
+<property type="class" value="android.widget.FrameLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,72][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.FrameLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="72"/>
+<property type="width" value="1080"/>
+<property type="height" value="1848"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children>
+<node h="790" ignored="false" w="1080" web="false" x="0" y="1130">
+<properties>
+<property type="id" value="main_keyboard_frame"/>
+<property type="resource-id" value="com.android.inputmethod.latin:id/main_keyboard_frame"/>
+<property type="class" value="android.widget.LinearLayout"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,1130][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.widget.LinearLayout"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1130"/>
+<property type="width" value="1080"/>
+<property type="height" value="790"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children>
+<node h="670" ignored="false" w="1080" web="false" x="0" y="1250">
+<properties>
+<property type="id" value="keyboard_view"/>
+<property type="resource-id" value="com.android.inputmethod.latin:id/keyboard_view"/>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,1250][1080,1920]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="false"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1250"/>
+<property type="width" value="1080"/>
+<property type="height" value="670"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children>
+<node h="165" ignored="false" w="109" web="false" x="0" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="q"/>
+<property type="content-desc" value="q"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="0"/>
+<property type="bounds" value="[0,1265][109,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1265"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="108" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="w"/>
+<property type="content-desc" value="w"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[108,1265][217,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="108"/>
+<property type="y" value="1265"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="216" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="e"/>
+<property type="content-desc" value="e"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="2"/>
+<property type="bounds" value="[216,1265][325,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="216"/>
+<property type="y" value="1265"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="324" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="r"/>
+<property type="content-desc" value="r"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="3"/>
+<property type="bounds" value="[324,1265][433,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="324"/>
+<property type="y" value="1265"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="432" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="t"/>
+<property type="content-desc" value="t"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="4"/>
+<property type="bounds" value="[432,1265][541,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="432"/>
+<property type="y" value="1265"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="540" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="y"/>
+<property type="content-desc" value="y"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="5"/>
+<property type="bounds" value="[540,1265][649,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="540"/>
+<property type="y" value="1265"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="648" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="u"/>
+<property type="content-desc" value="u"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="6"/>
+<property type="bounds" value="[648,1265][757,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="648"/>
+<property type="y" value="1265"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="756" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="i"/>
+<property type="content-desc" value="i"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="7"/>
+<property type="bounds" value="[756,1265][865,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="756"/>
+<property type="y" value="1265"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="864" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="o"/>
+<property type="content-desc" value="o"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="8"/>
+<property type="bounds" value="[864,1265][973,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="864"/>
+<property type="y" value="1265"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="108" web="false" x="972" y="1265">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="p"/>
+<property type="content-desc" value="p"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="9"/>
+<property type="bounds" value="[972,1265][1080,1430]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="972"/>
+<property type="y" value="1265"/>
+<property type="width" value="108"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="163" web="false" x="0" y="1430">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="a"/>
+<property type="content-desc" value="a"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="10"/>
+<property type="bounds" value="[0,1430][163,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1430"/>
+<property type="width" value="163"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="162" y="1430">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="s"/>
+<property type="content-desc" value="s"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="11"/>
+<property type="bounds" value="[162,1430][271,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="162"/>
+<property type="y" value="1430"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="270" y="1430">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="d"/>
+<property type="content-desc" value="d"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="12"/>
+<property type="bounds" value="[270,1430][379,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="270"/>
+<property type="y" value="1430"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="378" y="1430">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="f"/>
+<property type="content-desc" value="f"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="13"/>
+<property type="bounds" value="[378,1430][487,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="378"/>
+<property type="y" value="1430"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="486" y="1430">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="g"/>
+<property type="content-desc" value="g"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="14"/>
+<property type="bounds" value="[486,1430][595,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="486"/>
+<property type="y" value="1430"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="594" y="1430">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="h"/>
+<property type="content-desc" value="h"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="15"/>
+<property type="bounds" value="[594,1430][703,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="594"/>
+<property type="y" value="1430"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="702" y="1430">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="j"/>
+<property type="content-desc" value="j"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="16"/>
+<property type="bounds" value="[702,1430][811,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="702"/>
+<property type="y" value="1430"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="810" y="1430">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="k"/>
+<property type="content-desc" value="k"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="17"/>
+<property type="bounds" value="[810,1430][919,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="810"/>
+<property type="y" value="1430"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="162" web="false" x="918" y="1430">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="l"/>
+<property type="content-desc" value="l"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="18"/>
+<property type="bounds" value="[918,1430][1080,1595]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="918"/>
+<property type="y" value="1430"/>
+<property type="width" value="162"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="163" web="false" x="0" y="1595">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="Shift"/>
+<property type="content-desc" value="Shift"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="19"/>
+<property type="bounds" value="[0,1595][163,1760]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1595"/>
+<property type="width" value="163"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="162" y="1595">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="z"/>
+<property type="content-desc" value="z"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="20"/>
+<property type="bounds" value="[162,1595][271,1760]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="162"/>
+<property type="y" value="1595"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="270" y="1595">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="x"/>
+<property type="content-desc" value="x"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="21"/>
+<property type="bounds" value="[270,1595][379,1760]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="270"/>
+<property type="y" value="1595"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="378" y="1595">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="c"/>
+<property type="content-desc" value="c"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="22"/>
+<property type="bounds" value="[378,1595][487,1760]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="378"/>
+<property type="y" value="1595"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="486" y="1595">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="v"/>
+<property type="content-desc" value="v"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="23"/>
+<property type="bounds" value="[486,1595][595,1760]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="486"/>
+<property type="y" value="1595"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="594" y="1595">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="b"/>
+<property type="content-desc" value="b"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="24"/>
+<property type="bounds" value="[594,1595][703,1760]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="594"/>
+<property type="y" value="1595"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="702" y="1595">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="n"/>
+<property type="content-desc" value="n"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="25"/>
+<property type="bounds" value="[702,1595][811,1760]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="702"/>
+<property type="y" value="1595"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="810" y="1595">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="m"/>
+<property type="content-desc" value="m"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="26"/>
+<property type="bounds" value="[810,1595][919,1760]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="810"/>
+<property type="y" value="1595"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="162" web="false" x="918" y="1595">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="Delete"/>
+<property type="content-desc" value="Delete"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="27"/>
+<property type="bounds" value="[918,1595][1080,1760]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="918"/>
+<property type="y" value="1595"/>
+<property type="width" value="162"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="163" web="false" x="0" y="1760">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="Symbols"/>
+<property type="content-desc" value="Symbols"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="28"/>
+<property type="bounds" value="[0,1760][163,1925]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="1760"/>
+<property type="width" value="163"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="162" y="1760">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value=","/>
+<property type="content-desc" value=","/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="29"/>
+<property type="bounds" value="[162,1760][271,1925]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="162"/>
+<property type="y" value="1760"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="541" web="false" x="270" y="1760">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="Space"/>
+<property type="content-desc" value="Space"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="30"/>
+<property type="bounds" value="[270,1760][811,1925]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="270"/>
+<property type="y" value="1760"/>
+<property type="width" value="541"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="109" web="false" x="810" y="1760">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="."/>
+<property type="content-desc" value="."/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="31"/>
+<property type="bounds" value="[810,1760][919,1925]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="810"/>
+<property type="y" value="1760"/>
+<property type="width" value="109"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+<node h="165" ignored="false" w="162" web="false" x="918" y="1760">
+<properties>
+<property type="class" value="com.android.inputmethod.keyboard.Key"/>
+<property type="contentDescription" value="Go"/>
+<property type="content-desc" value="Go"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="32"/>
+<property type="bounds" value="[918,1760][1080,1925]"/>
+<property type="hidden" value="false"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="com.android.inputmethod.keyboard.Key"/>
+<property type="onScreen" value="true"/>
+<property type="x" value="918"/>
+<property type="y" value="1760"/>
+<property type="width" value="162"/>
+<property type="height" value="165"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="0" ignored="false" w="1080" web="false" x="0" y="1920">
+<properties>
+<property type="class" value="android.view.View"/>
+<property type="enabled" value="true"/>
+<property type="checkable" value="false"/>
+<property type="focusable" value="false"/>
+<property type="index" value="1"/>
+<property type="bounds" value="[0,1920][1080,1920]"/>
+<property type="hidden" value="true"/>
+<property type="clickable" value="false"/>
+<property type="long-clickable" value="false"/>
+<property type="longClickable" value="false"/>
+<property type="password" value="false"/>
+<property type="scrollable" value="false"/>
+<property type="selected" value="false"/>
+<property type="top" value="true"/>
+<property type="knownSuperClass" value="android.view.View"/>
+<property type="onScreen" value="false"/>
+<property type="x" value="0"/>
+<property type="y" value="1920"/>
+<property type="width" value="1080"/>
+<property type="height" value="0"/>
+<property type="package" value="com.android.inputmethod.latin"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</nodes>

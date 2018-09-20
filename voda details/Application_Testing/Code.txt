@@ -1,0 +1,69 @@
+//package <set your test package>;
+import io.appium.java_client.remote.AndroidMobileCapabilityType;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.android.AndroidElement;
+import io.appium.java_client.remote.MobileCapabilityType;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.By;
+import org.junit.*;
+import java.net.URL;
+import java.net.MalformedURLException;
+import java.util.logging.Level;
+
+public class Vodafone_App_Testing {
+    private String reportDirectory = "reports";
+    private String reportFormat = "xml";
+    private String testName = "Vodafone_App_Testing";
+    protected AndroidDriver<AndroidElement> driver = null;
+
+    DesiredCapabilities dc = new DesiredCapabilities();
+    
+    @Before
+    public void setUp() throws MalformedURLException {
+        dc.setCapability("reportDirectory", reportDirectory);
+        dc.setCapability("reportFormat", reportFormat);
+        dc.setCapability("testName", testName);
+        dc.setCapability(MobileCapabilityType.UDID, "0123456789ABCDEF");
+        driver = new AndroidDriver<>(new URL("http://localhost:4723/wd/hub"), dc);
+        driver.setLogLevel(Level.INFO);
+    }
+
+    @Test
+    public void testVodafone_App_Testing() {
+        driver.findElement(By.xpath("//*[@text='My Vodafone' and @width>0]")).click();
+        // driver.findElement(By.xpath("//*[@text='My Vodafone' and @width>0]")).click();
+        new WebDriverWait(driver, 10).until(ExpectedConditions.presenceOfElementLocated(By.xpath("(((//*[@class='android.view.View' and ./parent::*[@text='My Vodafone Malta']]/*[@class='android.view.View'])[5]/*[@class='android.view.View'])[2]/*[@class='android.widget.EditText'])[1]")));
+        driver.findElement(By.xpath("(((//*[@class='android.view.View' and ./parent::*[@text='My Vodafone Malta']]/*[@class='android.view.View'])[5]/*[@class='android.view.View'])[2]/*[@class='android.widget.EditText'])[1]")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='t']")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='e']")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='s']")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='t']")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='q']")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='a']")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='Symbols']")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='2']")).click();
+        driver.findElement(By.xpath("(((//*[@class='android.view.View' and ./parent::*[@text='My Vodafone Malta']]/*[@class='android.view.View'])[5]/*[@class='android.view.View'])[2]/*[@class='android.widget.EditText'])[2]")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='Shift']")).click();
+        driver.findElement(By.xpath("(//*[@id='keyboard_view' and @class='android.view.View']/*[@contentDescription='Dot'])[23]")).click();
+        driver.findElement(By.xpath("(//*[@id='keyboard_view' and @class='android.view.View']/*[@contentDescription='Dot'])[9]")).click();
+        driver.findElement(By.xpath("(//*[@id='keyboard_view' and @class='android.view.View']/*[@contentDescription='Dot'])[13]")).click();
+        driver.findElement(By.xpath("(//*[@id='keyboard_view' and @class='android.view.View']/*[@contentDescription='Dot'])[11]")).click();
+        driver.findElement(By.xpath("//*[@contentDescription='Symbols']")).click();
+        driver.findElement(By.xpath("(//*[@id='keyboard_view' and @class='android.view.View']/*[@contentDescription='Dot'])[1]")).click();
+        driver.findElement(By.xpath("(//*[@id='keyboard_view' and @class='android.view.View']/*[@contentDescription='Dot'])[2]")).click();
+        driver.findElement(By.xpath("(//*[@id='keyboard_view' and @class='android.view.View']/*[@contentDescription='Dot'])[3]")).click();
+        driver.findElement(By.xpath("(//*[@id='keyboard_view' and @class='android.view.View']/*[@contentDescription='Dot'])[4]")).click();
+        driver.findElement(By.xpath("//*[@text='Log in']")).click();
+        new WebDriverWait(driver, 60).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[@id='navBtn']")));
+        String text1 = driver.findElement(By.xpath("//*[@text='Welcome to My Vodafone']")).getText();
+        driver.findElement(By.xpath("//*[@id='navBtn']")).click();
+        driver.findElement(By.xpath("//*[@text='My Vodafone Malta']")).click();
+    }
+
+    @After
+    public void tearDown() {
+        driver.quit();
+    }
+}
