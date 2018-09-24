@@ -1,0 +1,13 @@
+
+Date of testing:24-09-2018
+
+Data Obtained for testing:
+Weblink 1 = https://www.vodafone.com.mt/home
+Weblink 2 = https://www.vodafone.com.mt/myVodafone-postpaid
+Username = testqa2
+Password = Voda1234
+
+Testing Method Results:
+Test 1 - verifyUrl does match
+Test 2 - verifyMatchingText does match
+Test 3 - it is numeric
